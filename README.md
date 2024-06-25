@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=EAE4F5,FCCAC9&text=Data%20Analysis%20박다정%20입니다.&fontSize=30&section=header&reversal=true&fontColor=black&fontAlign=50&fontAlignY=90&descAlign=66&)
+
+
+
 ## Hi there 👋
 
 **DAJEONGHADA/DAJEONGHADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
