@@ -24,6 +24,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAJEONGHADA" alt="Top Langs" width="400" height="200" style="display: inline-block;">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" alt="GitHub stats" width="400" height="200" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" alt="GitHub stats" width="400" height="150" style="display: inline-block;">
 </div>
 
