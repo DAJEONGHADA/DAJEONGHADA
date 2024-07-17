@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=EAE4F5,FCCAC9&text=Data%20Analysis%20박다정%20입니다.&fontSize=30&section=header&reversal=true&fontColor=black&fontAlign=50&fontAlignY=90&descAlign=66&)
 
-
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=MYSQL&logoColor=white)
 
 ## Hi there 👋
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJEONGHADA)](https://github.com/anuraghazra/github-readme-stats)
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
+
