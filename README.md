@@ -3,21 +3,23 @@
 
 ## 안녕하세요. 👋
 
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=MYSQL&logoColor=white)
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cocoding_carrot)](https://blog.naver.com/cocoding_carrot)
-
-
-
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@carrot94"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@carrot94"/></a>&nbsp
   <a href="https://blog.naver.com/cocoding_carrot"><img src="https://img.shields.io/badge/Naverblog-E4405F?style=flat-square&logo=Naverblog&logoColor=white"/></a>&nbsp;
   <a href="mailto:ekwjd94913@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+
+
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=MYSQL&logoColor=white)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
+
+
+
+
 
 
 Here are some ideas to get you started:
