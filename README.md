@@ -8,6 +8,7 @@
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://blog.naver.com/cocoding_carrot)
 
 
 
