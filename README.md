@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dajeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=60&height=250&width=500)
 
-
-## 안녕하세요. 👋
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -18,11 +15,7 @@
 </p>
 
 
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=MYSQL&logoColor=white)
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
+<h3 align="center"> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
 
 
 
