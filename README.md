@@ -3,7 +3,6 @@
 <div align="center">
   <p>
     <strong>안녕하세요 데이터 분석가 박다정입니다.</strong>
-#### 안녕하세요 데이터 분석가 박다정입니다.
 </div>
 
 
