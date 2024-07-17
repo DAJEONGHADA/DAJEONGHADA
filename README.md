@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dajeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=60&height=250&width=500)
 
-### 안녕하세요 데이터 분석가 박다정입니다.
-
+<div align="center">
+  <p>
+    <strong>안녕하세요 데이터 분석가 박다정입니다.</strong>
+#### 안녕하세요 데이터 분석가 박다정입니다.
+</div>
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
