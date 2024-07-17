@@ -13,7 +13,9 @@
 </p>
 
 <div align="center">
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
+  <a href="https://github.com/carrot94/velog-readme-stats">
+    <img src="https://velog-readme-stats.vercel.app/api?name=carrot94" alt="Velog's GitHub stats">
+  </a>
 </div>
 
 
