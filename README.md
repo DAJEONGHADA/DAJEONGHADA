@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dajeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=60&height=250&width=500)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJEONGHADA)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" height="165">
 
 ## 안녕하세요. 👋
 
@@ -10,7 +8,8 @@
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
-[![Naver Blog's GitHub stats](https://blog.naver.com/cocoding_carrot)](https://github.com/cocoding_carrot/velog-readme-stats) 
+[![Naver Blog's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoding_carrot)](https://github.com/cocoding_carrot)
+
 
 Here are some ideas to get you started:
 
@@ -23,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJEONGHADA)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" height="165">
