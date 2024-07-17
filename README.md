@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Jupyter-ED7D31?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Excel-008000?style=flat-square&logo=Excel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-008000?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
   
 
