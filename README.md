@@ -1,6 +1,8 @@
-## 안녕하세요. 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dajeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-**DAJEONGHADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+## 안녕하세요. 👋
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=MYSQL&logoColor=white)
