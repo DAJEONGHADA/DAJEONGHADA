@@ -1,10 +1,12 @@
+## 안녕하세요. 👋
+
+**DAJEONGHADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=MYSQL&logoColor=white)
 
-## Hi there 👋
 
-**DAJEONGHADA/DAJEONGHADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cocoding_carrot.log)]([벨로그링크](https://velog.io/@carrot94/posts))
 
 Here are some ideas to get you started:
 
