@@ -8,20 +8,23 @@
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
-[![Naver Blog's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoding_carrot)](https://github.com/cocoding_carrot)
+
+
+
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@hcarrot94"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@carrot94"/></a>&nbsp
+  <a href="https://https://blog.naver.com/cocoding_carrot/"><img src="https://img.shields.io/badge/Naverblog-E4405F?style=flat-square&logo=Naverblog&logoColor=white&link=https://https://blog.naver.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:ekwjd94913@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 저는 데이터 분석 & 서비스 개발 관련 교육과정을 듣고있습니다. 
+- 👯 저는 데이터 분석가가 되고싶습니다. 
+- 📫 How to reach me : ekwjd94913@gamil.com 
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJEONGHADA)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" height="165">
