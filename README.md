@@ -4,7 +4,7 @@
   <p>
     <strong>안녕하세요 데이터 분석가 박다정입니다.</strong>
 </div>
-
+<br/>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
