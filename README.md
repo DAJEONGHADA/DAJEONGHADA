@@ -8,8 +8,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=MYSQL&logoColor=white)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
+[![Naver Blog's GitHub stats](https://blog.naver.com/cocoding_carrot)](https://github.com/cocoding_carrot/velog-readme-stats) 
 
 Here are some ideas to get you started:
 
