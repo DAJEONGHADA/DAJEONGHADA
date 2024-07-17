@@ -15,7 +15,8 @@
 </p>
 
 
-<h3 align="center"> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
+<h3 align="center"> 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=carrot94)](https://github.com/carrot94/velog-readme-stats) 
 
 
 
