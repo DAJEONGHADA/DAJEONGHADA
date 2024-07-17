@@ -19,17 +19,11 @@
     <img src="https://velog-readme-stats.vercel.app/api?name=carrot94" alt="Velog's GitHub stats">
   </a>
 </div>
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🌱 저는 데이터 분석 & 서비스 개발 관련 교육과정을 듣고있습니다. 
-- 👯 저는 데이터 분석가가 되고싶습니다. 
-- 📫 How to reach me : ekwjd94913@gamil.com 
-
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAJEONGHADA)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" height="165">
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAJEONGHADA" alt="Top Langs">
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" alt="GitHub stats" height="165">
+</div>
