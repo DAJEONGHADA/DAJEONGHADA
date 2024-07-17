@@ -13,7 +13,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hcarrot94"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@carrot94"/></a>&nbsp
+  <a href="https://velog.io/@carrot94"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@carrot94"/></a>&nbsp
   <a href="https://https://blog.naver.com/cocoding_carrot/"><img src="https://img.shields.io/badge/Naverblog-E4405F?style=flat-square&logo=Naverblog&logoColor=white&link=https://https://blog.naver.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:ekwjd94913@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
