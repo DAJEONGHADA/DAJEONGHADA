@@ -39,4 +39,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" alt="GitHub stats" width="400" height="150" style="display: inline-block;">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy)
+![DAJEONGHADA's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy)
