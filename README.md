@@ -38,5 +38,3 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" alt="GitHub stats" width="400" height="150" style="display: inline-block;">
 </div>
-
-![DAJEONGHADA's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy)
