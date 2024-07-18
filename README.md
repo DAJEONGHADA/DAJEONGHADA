@@ -38,12 +38,3 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=DAJEONGHADA&show_icons=true&theme=buefy" alt="GitHub stats" width="400" height="150" style="display: inline-block;">
 </div>
-
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github.com/DAJEONGHADA/DAJEONGHADA/?username=DAJEONGHADA" alt="Top Langs" width="300" height="150" style="display: inline-block;">
-  </a>
-  <img src="https://github.com/DAJEONGHADA/DAJEONGHADA/?username=DAJEONGHADA&show_icons=true&theme=buefy" alt="GitHub stats" width="400" height="150" style="display: inline-block;">
-</div>
-
